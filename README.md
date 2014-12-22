@@ -35,9 +35,17 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Arbasto The anatomie of fortune. Wherein is discoursed by a pithie and pleasant discourse, that the 
+
+1. To the right honorable and vertuous Lady, the Lady Mary Talbot, wife to the Right honourable Gilbert, Lord Talbot: Robert Greene wisheth increase of honour and vertue.
+
+1. To the Gentlemen Readers health.
+
 #####Body#####
-Arbasto The anatomie of fortune. Wherein is discoursed by a pithie and pleasant discourse, that the 
+
+1. Arbasto, the Anatomie of Fortune.
+
+1. Arbasto.
+
 **Types of content**
 
   * There are 35 **verse** lines!
